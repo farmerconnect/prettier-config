@@ -2,6 +2,8 @@
 
 General prettier ruleset used across projects in farmer connect.
 
+This repository also includes an `.editorconfig` file that can be copied and used in other projects
+
 # Install
 
 ```
