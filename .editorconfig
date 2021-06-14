@@ -1,6 +1,16 @@
+root = true
+
+[*]
 charset = utf-8
-ident_style = tab
-tab_width = 2
-max_line_length = 120
-insert_final_newline = true
 end_of_line = lf
+indent_size = 2
+indent_style = space
+insert_final_newline = true
+trim_trailing_whitespace = true
+quote_type = single
+
+[*.md]
+trim_trailing_whitespace = false
+
+[package.json]
+indent_size = 2
