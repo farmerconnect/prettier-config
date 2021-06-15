@@ -1,23 +1,23 @@
 {
-	"name": "@farmerconnect/prettier-config",
-	"version": "1.2.0",
-	"description": "Prettier configuration used across farmer connect",
-	"main": "index.js",
-	"scripts": {
-		"test": "echo \"Error: no test specified\" && exit 1"
-	},
-	"repository": {
-		"type": "git",
-		"url": "git+https://github.com/farmerconnect/prettier-config.git"
-	},
-	"keywords": [
-		"pettier",
-		"typescript"
-	],
-	"author": "",
-	"bugs": {
-		"url": "https://github.com/farmerconnect/prettier-config/issues"
-	},
-	"homepage": "https://github.com/farmerconnect/prettier-config#readme",
-	"license": "Apache-2.0"
+  "name": "@farmerconnect/prettier-config",
+  "version": "1.2.1",
+  "description": "Prettier configuration used across farmer connect",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/farmerconnect/prettier-config.git"
+  },
+  "keywords": [
+    "pettier",
+    "typescript"
+  ],
+  "author": "",
+  "bugs": {
+    "url": "https://github.com/farmerconnect/prettier-config/issues"
+  },
+  "homepage": "https://github.com/farmerconnect/prettier-config#readme",
+  "license": "Apache-2.0"
 }
